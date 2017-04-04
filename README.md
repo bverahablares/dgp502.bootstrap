@@ -2,7 +2,7 @@
 
 Bootstrap es un Framework de HTML, CSS y JS para el desarrollo de proyectos web responsive. Es uno opción entre varias.
 
-Sin más preámbulo, vamos al [sitio oficial de Bootstra](http://getbootstrap.com). En el menú busquen la opción **customize** (quien esté usando Safari podrían tener problemas, recomiendo el uso de cualquier otro navegador –menos Safari– para realizar este paso). En la página customize encontrarán muchas opciones que revisaremos más adelante. Por ahora avancen hasta el final de la página y presionen el botón: **Compile and Download**. Con esa descarga obtendrán la siguiente carpeta:
+Sin más preámbulo, vamos al [sitio oficial de Bootstrap](http://getbootstrap.com). En el menú busquen la opción **customize** (quien esté usando Safari podrían tener problemas, recomiendo el uso de cualquier otro navegador –menos Safari– para realizar este paso). En la página customize encontrarán muchas opciones que revisaremos más adelante. Por ahora avancen hasta el final de la página y presionen el botón: **Compile and Download**. Con esa descarga obtendrán la siguiente carpeta:
 
 ```
 bootstrap/
