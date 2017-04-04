@@ -133,7 +133,6 @@ bootstrap/
 
 ## Aplicación
 
-En este repositorio encuentras el prototipo de un sitio web. Trabajaremos sobre este sitio hasta armar uno propio, mientras vamos poniendo a prueba la "declaración de principios" de este [Framework](https://es.wikipedia.org/wiki/Framework) de [HTML](https://developer.mozilla.org/es/docs/Glossary/HTML), [CSS](https://developer.mozilla.org/es/docs/Glossary/CSS) y [JS](https://developer.mozilla.org/es/docs/Glossary/JavaScript):
+En este repositorio encontraremos el prototipo de un sitio web. Partiendo desde este prototipo, armaremos nuevos sitios,  poniendo a prueba la "declaración de principios" de este [Framework](https://es.wikipedia.org/wiki/Framework) de [HTML](https://developer.mozilla.org/es/docs/Glossary/HTML), [CSS](https://developer.mozilla.org/es/docs/Glossary/CSS) y [JS](https://developer.mozilla.org/es/docs/Glossary/JavaScript):
 
-> Bootstrap makes front-end web development faster and easier. 
-> It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.
+> Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.
