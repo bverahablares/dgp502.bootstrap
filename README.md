@@ -1,4 +1,4 @@
-# Bootstrap 3
+# Bootstrap
 
 ### Introducción
 
