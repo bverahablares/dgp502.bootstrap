@@ -18,7 +18,8 @@ bootstrap/
   │    ├──  glyphicons-halflings-regular.eot
   │    ├──  glyphicons-halflings-regular.svg
   │    ├──  glyphicons-halflings-regular.ttf
-  │    └──  glyphicons-halflings-regular.woff
+  │    ├──  glyphicons-halflings-regular.woff
+  │    └──  glyphicons-halflings-regular.woff2
   └── js/
        ├── bootstrap.js
        └── bootstrap.min.js
@@ -35,7 +36,8 @@ bootstrap/
   │    ├──  glyphicons-halflings-regular.eot
   │    ├──  glyphicons-halflings-regular.svg
   │    ├──  glyphicons-halflings-regular.ttf
-  │    └──  glyphicons-halflings-regular.woff
+  │    ├──  glyphicons-halflings-regular.woff
+  │    └──  glyphicons-halflings-regular.woff2
   └── js/
        └── bootstrap.min.js
 ```
@@ -53,10 +55,11 @@ bootstrap/
   ├── css/
   |    └── bootstrap.min.css
   ├── fonts/
-  |    ├── glyphicons-halflings-regular.eot
-  │    ├── glyphicons-halflings-regular.svg
-  │    ├── glyphicons-halflings-regular.ttf
-  │    └── glyphicons-halflings-regular.woff
+  │    ├──  glyphicons-halflings-regular.eot
+  │    ├──  glyphicons-halflings-regular.svg
+  │    ├──  glyphicons-halflings-regular.ttf
+  │    ├──  glyphicons-halflings-regular.woff
+  │    └──  glyphicons-halflings-regular.woff2
   └── js/
        ├── bootstrap.min.js
        └── jquery.min.js
@@ -105,17 +108,18 @@ El documento `style.css` y la carpeta `images` pueden quedar vacías por ahora. 
 bootstrap/
 ├── config.json
 ├── css/
-|   └── bootstrap.min.css
+|    └── bootstrap.min.css
 ├── fonts/
-|   ├──  glyphicons-halflings-regular.eot
-│   ├──  glyphicons-halflings-regular.svg
-│   ├──  glyphicons-halflings-regular.ttf
-│   └──  glyphicons-halflings-regular.woff
+│    ├──  glyphicons-halflings-regular.eot
+│    ├──  glyphicons-halflings-regular.svg
+│    ├──  glyphicons-halflings-regular.ttf
+│    ├──  glyphicons-halflings-regular.woff
+│    └──  glyphicons-halflings-regular.woff2
 ├── images/
 ├── index.html
 └── js/
-│   ├── bootstrap.min.js
-│   └── jquery.min.js
+│    ├── bootstrap.min.js
+│    └── jquery.min.js
 └── style.css
 ```
 
