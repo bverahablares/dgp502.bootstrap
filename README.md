@@ -2,91 +2,73 @@
 
 Bootstrap es un Framework de HTML, CSS y JS para el desarrollo de proyectos web responsive. Es uno opción entre varias.
 
-Sin más preámbulo, vamos a visitar [http://getbootstrap.com](http://getbootstrap.com). En el menú del sitio visitado busquen la página **customize** (quien esté usando Safari podrían tener problemas, recomiendo el uso de cualquier otro navegador –menos Safari– para realizar este paso). 
+Sin más preámbulo, vamos a [http://getbootstrap.com](http://getbootstrap.com). En el menú busquen la página **customize** (quien esté usando Safari podrían tener problemas, recomiendo el uso de cualquier otro navegador –menos Safari– para realizar este paso). 
 
 En customize de Bootstrap encontrarán muchas opciones que revisaremos más adelante. Por ahora avancen hasta el final de la página y presionen el botón: **Compile and Download**. Con esa descarga obtendrán la siguiente carpeta:
 
-```bootstrap/
-	├── config.json
-	├── css/
-	│   ├── bootstrap.css
-	│   ├── bootstrap.min.css
-	│   ├── bootstrap-theme.css
-	│   └── bootstrap-theme.min.css
-	├── fonts/
-	│	  ├──  glyphicons-halflings-regular.eot
-	│		├──  glyphicons-halflings-regular.svg
-	│		├──  glyphicons-halflings-regular.ttf
-	│		└──  glyphicons-halflings-regular.woff
-	└── js/
-			├── bootstrap.js
-			└── bootstrap.min.js
+```
+bootstrap/
+├── config.json
+├── css/
+│   ├── bootstrap.css
+│   ├── bootstrap.min.css
+│   ├── bootstrap-theme.css
+│   └── bootstrap-theme.min.css
+├── fonts/
+│   ├──  glyphicons-halflings-regular.eot
+│   ├──  glyphicons-halflings-regular.svg
+│   ├──  glyphicons-halflings-regular.ttf
+│   └──  glyphicons-halflings-regular.woff
+└── js/
+    ├── bootstrap.js
+    └── bootstrap.min.js
 ```
 
-Pero, de todo eso, sólo necesitamos: 
+Podemos eliminar algunos documentos, porque, por el momento, sólo necesitamos: 
 
-```bootstrap/
-	├── config.json
-	├── css/
-	│   └── bootstrap.min.css
-	├── fonts/
-	│	  ├──  glyphicons-halflings-regular.eot
-	│		├──  glyphicons-halflings-regular.svg
-	│		├──  glyphicons-halflings-regular.ttf
-	│		└──  glyphicons-halflings-regular.woff
-	└── js/
-			└── bootstrap.min.js
+```
+bootstrap/
+├── config.json
+├── css/
+│   └── bootstrap.min.css
+├── fonts/
+│   ├──  glyphicons-halflings-regular.eot
+│   ├──  glyphicons-halflings-regular.svg
+│   ├──  glyphicons-halflings-regular.ttf
+│   └──  glyphicons-halflings-regular.woff
+└── js/
+    └── bootstrap.min.js
 ```
 
-Visiten otro sitio web: [http://jquery.com](http://jquery.com) para descargar **the compressed, production jQuery 3.2.0**. El código que descarguen, debe:
+Ahora vamos a otro sitio web: [http://jquery.com](http://jquery.com), para descargar **the compressed, production jQuery 3.2.0**. El código que descarguen, debe:
 
-- renombrarse “jquery.min.js” 
-- incluirse en la carpeta “js”, dentro de la carpeta “bootstrap”. 
+- renombrarse “jquery.min.js”
+- incluirse en la carpeta “js”, dentro de “bootstrap”. 
 
 Con eso queda:
 
-```bootstrap/
-	├── config.json
-	├── css/
-	│   └── bootstrap.min.css
-	├── fonts/
-	│	  ├── glyphicons-halflings-regular.eot
-	│		├── glyphicons-halflings-regular.svg
-	│		├── glyphicons-halflings-regular.ttf
-	│		└── glyphicons-halflings-regular.woff
-	└── js/
-			├── bootstrap.min.js
-			└── jquery.min.js
+```
+bootstrap/
+├── config.json
+├── css/
+|   └── bootstrap.min.css
+├── fonts/
+|   ├── glyphicons-halflings-regular.eot
+│   ├── glyphicons-halflings-regular.svg
+│   ├── glyphicons-halflings-regular.ttf
+│   └── glyphicons-halflings-regular.woff
+└── js/
+    ├── bootstrap.min.js
+    └── jquery.min.js
 ```
 
-Ahora corresponde pueden abrir la carpeta como un nuevo proyecto en Atom. En este editor crearemos: 
+Ya podemos abrir la carpeta como un nuevo proyecto en [Atom](https://atom.io/). Lo primero que haremos en este editor será crear:
 
 - un documento `index.html`
 - un documento `style.css`
 - una carpeta `images`
 
-Con lo que acabos de crear, la carpeta debe verse así:
-
-```
-nombre_propio/
-├── config.json
-├── css/
-|    └── bootstrap.min.css
-├── fonts/
-|    ├──  glyphicons-halflings-regular.eot
-│    ├──  glyphicons-halflings-regular.svg
-│    ├──  glyphicons-halflings-regular.ttf
-│    └──  glyphicons-halflings-regular.woff
-├── images/
-├── index.html
-└── js/
-│    ├── bootstrap.min.js
-│    ├── jquery.min.js
-│    └── masonry.pkgd.min.js
-└── style.css
-```
-
-Ahora vamos a fijarnos en el documento `index.html`, allí vamos a escribir: 
+En el documento `index.html` tenemos que escribir: 
 
 ```
 <!DOCTYPE html>
@@ -110,6 +92,29 @@ Ahora vamos a fijarnos en el documento `index.html`, allí vamos a escribir:
 </body>
 </html>
 ```
-### Recursos:
 
-…
+Y esta es la base para comenzar a trabajar como Bootstrap:
+
+```
+bootstrap/
+├── config.json
+├── css/
+|   └── bootstrap.min.css
+├── fonts/
+|   ├──  glyphicons-halflings-regular.eot
+│   ├──  glyphicons-halflings-regular.svg
+│   ├──  glyphicons-halflings-regular.ttf
+│   └──  glyphicons-halflings-regular.woff
+├── images/
+├── index.html
+└── js/
+│   ├── bootstrap.min.js
+│   └── jquery.min.js
+└── style.css
+```
+
+### Referencias:
+
+En castellano: [Bootstrap 3, el manual oficial](https://librosweb.es/libro/bootstrap_3/)
+
+En inglés: [Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
