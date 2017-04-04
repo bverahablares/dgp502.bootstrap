@@ -67,44 +67,49 @@ Ahora corresponde pueden abrir la carpeta como un nuevo proyecto en Atom. En est
 
 Con lo que acabos de crear, la carpeta debe verse así:
 
-```nombre_propio/
-	├── config.json
-	├── css/
-	│   └── bootstrap.min.css
-	├── fonts/
-	│	  ├──  glyphicons-halflings-regular.eot
-	│		├──  glyphicons-halflings-regular.svg
-	│		├──  glyphicons-halflings-regular.ttf
-	│		└──  glyphicons-halflings-regular.woff
-	├── images/
-	├── index.html
-	└── js/
-	│		├── bootstrap.min.js
-	│		├── jquery.min.js
-	│		└── masonry.pkgd.min.js
-	└── style.css
+```
+nombre_propio/
+├── config.json
+├── css/
+|	└── bootstrap.min.css
+├── fonts/
+|	├──  glyphicons-halflings-regular.eot
+│	├──  glyphicons-halflings-regular.svg
+│	├──  glyphicons-halflings-regular.ttf
+│	└──  glyphicons-halflings-regular.woff
+├── images/
+├── index.html
+└── js/
+│	├── bootstrap.min.js
+│	├── jquery.min.js
+│	└── masonry.pkgd.min.js
+└── style.css
 ```
 
 Ahora vamos a fijarnos en el documento `index.html`, allí vamos a escribir: 
 
-	<!DOCTYPE html>
-	<html lang="es">
-	<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Hola mundo!</title>
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-	<link href="style.css" rel="stylesheet">
-	<!--[if lt IE 9]>
-	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-	<![endif]-->
-	</head>
-	<body>
-	<h1>Hola mundo!</h1>
-	<script src="js/jquery.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	</body>
-	</html>
+```
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hola mundo!</title>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body>
+<h1>Hola mundo!</h1>
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
+```
+### Recursos:
 
+…
