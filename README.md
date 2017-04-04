@@ -135,7 +135,6 @@ bootstrap/
 - [Bootstrap 3 Cheat Sheet](https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/)
 - [CSS · Boostrap](http://getbootstrap.com/css/)
 - [Components · Boostrap](http://getbootstrap.com/components/)
-- [Javascript · Boostrap](http://getbootstrap.com/javascript/)
 
 #### Si necesitamos más ayuda, podemos consultar algunos manuales:
 
