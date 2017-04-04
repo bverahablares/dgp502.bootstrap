@@ -91,7 +91,7 @@ En el documento `index.html` tenemos que escribir:
 </html>
 ```
 
-Y esta es la base para comenzar a trabajar como Bootstrap:
+Y esto es lo básico para comenzar a trabajar con Bootstrap:
 
 ```
 bootstrap/
@@ -110,6 +110,8 @@ bootstrap/
 │   └── jquery.min.js
 └── style.css
 ```
+
+**Trabajar con Bootstrap es trabajar con una lógica de tomar hasta 12 columnas (`col-`) dentro de una fila (`row`). A su vez, las filas van dentro contenedores, que pueden ser fijos (`container`) o fluidos (`container-fluid`).**
 
 ### Referencias:
 
