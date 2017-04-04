@@ -1,5 +1,7 @@
 # Bootstrap 3
 
+## Introducción
+
 Bootstrap es un [Framework](https://es.wikipedia.org/wiki/Framework) de [HTML](https://developer.mozilla.org/es/docs/Glossary/HTML), [CSS](https://developer.mozilla.org/es/docs/Glossary/CSS) y [JS](https://developer.mozilla.org/es/docs/Glossary/JavaScript) para implementar [diseño web adaptable](https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable). Es una opción entre varias que se podrían explorar: [Top 10 Front-End Frameworks of 2016](https://www.keycdn.com/blog/front-end-frameworks/), [Best Front-end frameworks to try in 2016](https://hashnode.com/post/best-front-end-frameworks-to-try-in-2016-cin1unmcn00tvrb535out1y08). Optar por Bootstrap es optar por lo más popular, por asegurarse disponibilidad de mucha ayuda en línea.
 
 Sin más preámbulo, vamos al [sitio oficial de Bootstrap](http://getbootstrap.com). En el menú busquen la opción **customize** (quien esté usando Safari podrían tener problemas, le recomiendo el uso de otro navegador). En la página customize encontrarán muchas opciones que revisaremos más adelante. Por ahora avancen hasta el final de la página y presionen el botón: **Compile and Download**. Con esa descarga obtendrán la siguiente carpeta:
@@ -111,19 +113,27 @@ bootstrap/
 └── style.css
 ```
 
-#### Al trabajar con Bootstrap conviene recordar que: 
+#### Al trabajar con Bootstrap nos conviene recordar que: 
 
 - puedes "tomar" hasta 12 columnas (`col-`) en una fila (`row`), las columnas que tomes hacen el ancho de cada bloque;
 - las filas (`row`) van dentro de contenedores, que pueden ser fijos (`container`) o fluidos (`container-fluid`).
 
-#### También conviene aprovechar estas referencias:
+#### También podemos aprovechar estas referencias:
 
 - [Bootstrap Classes Reference](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
 - [Bootstrap 3 Cheat Sheet](https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/)
+- [CSS · Boostrap](http://getbootstrap.com/css/)
+- [Components · Boostrap](http://getbootstrap.com/components/)
+- [Javascript · Boostrap](http://getbootstrap.com/javascript/)
 
-#### Si necesitas más ayuda, pueden consultar algunos manuales:
+#### Si necesitamos más ayuda, podemos consultar algunos manuales:
 
 - [Bootstrap 3, el manual oficial](https://librosweb.es/libro/bootstrap_3/)
 - [Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
 
+## Aplicación
 
+En este repositorio encuentras el prototipo de un sitio web. Trabajaremos sobre este sitio hasta armar uno propio, mientras vamos poniendo a prueba la "declaración de principios" de este [Framework](https://es.wikipedia.org/wiki/Framework) de [HTML](https://developer.mozilla.org/es/docs/Glossary/HTML), [CSS](https://developer.mozilla.org/es/docs/Glossary/CSS) y [JS](https://developer.mozilla.org/es/docs/Glossary/JavaScript):
+
+> Bootstrap makes front-end web development faster and easier. 
+> It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.
