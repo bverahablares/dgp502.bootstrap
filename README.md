@@ -1,6 +1,6 @@
 # Bootstrap 3
 
-## Introducción
+### Introducción
 
 Bootstrap es un [Framework](https://es.wikipedia.org/wiki/Framework) de [HTML](https://developer.mozilla.org/es/docs/Glossary/HTML), [CSS](https://developer.mozilla.org/es/docs/Glossary/CSS) y [JS](https://developer.mozilla.org/es/docs/Glossary/JavaScript) para implementar [diseño web adaptable](https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable). Es una opción entre varias que se podrían explorar: [Top 10 Front-End Frameworks of 2016](https://www.keycdn.com/blog/front-end-frameworks/), [Best Front-end frameworks to try in 2016](https://hashnode.com/post/best-front-end-frameworks-to-try-in-2016-cin1unmcn00tvrb535out1y08). Optar por Bootstrap es optar por lo más popular, por asegurarse disponibilidad de mucha ayuda en línea.
 
@@ -131,8 +131,8 @@ bootstrap/
 - [Bootstrap 3, el manual oficial](https://librosweb.es/libro/bootstrap_3/)
 - [Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
 
-## Aplicación
+### Aplicación
 
-En este repositorio encontraremos el prototipo de un sitio web. Partiendo desde este prototipo, armaremos nuevos sitios,  poniendo a prueba la "declaración de principios" de este [Framework](https://es.wikipedia.org/wiki/Framework) de [HTML](https://developer.mozilla.org/es/docs/Glossary/HTML), [CSS](https://developer.mozilla.org/es/docs/Glossary/CSS) y [JS](https://developer.mozilla.org/es/docs/Glossary/JavaScript):
+Durante esta clase, y desde lo básico, armaremos un sitio web. Vamos a poner a prueba la "misión" de este [Framework](https://es.wikipedia.org/wiki/Framework) de [HTML](https://developer.mozilla.org/es/docs/Glossary/HTML), [CSS](https://developer.mozilla.org/es/docs/Glossary/CSS) y [JS](https://developer.mozilla.org/es/docs/Glossary/JavaScript):
 
 > Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.
