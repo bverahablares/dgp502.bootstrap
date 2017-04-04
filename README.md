@@ -125,7 +125,7 @@ bootstrap/
 
 #### Al trabajar con Bootstrap nos conviene recordar que: 
 
-- puedes "tomar" hasta 12 columnas (`.col-`) en una fila (`.row`), las columnas que tomes hacen el ancho de cada bloque;
+- puedes "tomar" hasta [12 columnas (`.col-`) en una fila (`.row`)](http://getbootstrap.com/examples/grid/), las columnas que tomes hacen el ancho de cada bloque;
 - las filas (`.row`) van dentro de contenedores, que pueden ser fijos (`.container`) o fluidos (`.container-fluid`).
 
 #### También podemos aprovechar estas referencias:
