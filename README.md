@@ -113,17 +113,17 @@ bootstrap/
 
 #### Al trabajar con Bootstrap conviene recordar que: 
 
-- puedes "tomar" hasta 12 columnas (`col-`) en una fila (`row`), las columnas que tomes hacen el ancho de cada bloque.
-- Las filas que van dentro de contenedores, que pueden ser fijos (`container`) o fluidos (`container-fluid`).
+- puedes "tomar" hasta 12 columnas (`col-`) en una fila (`row`), las columnas que tomes hacen el ancho de cada bloque;
+- las filas (`row`) van dentro de contenedores, que pueden ser fijos (`container`) o fluidos (`container-fluid`).
 
-### Referencias:
+#### También conviene aprovechar estas referencias:
 
-En inglés: 
-
-- [Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
 - [Bootstrap Classes Reference](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
 - [Bootstrap 3 Cheat Sheet](https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/)
 
-En castellano: 
+#### Si necesitas más ayuda, pueden consultar algunos manuales:
 
 - [Bootstrap 3, el manual oficial](https://librosweb.es/libro/bootstrap_3/)
+- [Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
+
+
