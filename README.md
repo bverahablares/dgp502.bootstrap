@@ -91,7 +91,7 @@ En el documento `index.html` tenemos que escribir:
 </html>
 ```
 
-Y esto es lo básico para comenzar a trabajar con Bootstrap:
+El documento `style.css` y la carpeta `images` pueden quedar vacías por ahora. Esto es lo básico para comenzar a trabajar con Bootstrap:
 
 ```
 bootstrap/
@@ -111,7 +111,10 @@ bootstrap/
 └── style.css
 ```
 
-**Trabajar con Bootstrap es trabajar con la idea de "tomar" hasta 12 columnas (`col-`) dentro de una fila (`row`). Con filas que van dentro de contenedores, que pueden ser fijos (`container`) o fluidos (`container-fluid`).**
+#### Al trabajar con Bootstrap conviene recordar que: 
+
+- puedes "tomar" hasta 12 columnas (`col-`) en una fila (`row`), las columnas que tomes hacen el ancho de cada bloque.
+- Las filas que van dentro de contenedores, que pueden ser fijos (`container`) o fluidos (`container-fluid`).
 
 ### Referencias:
 
