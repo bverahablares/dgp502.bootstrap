@@ -71,18 +71,18 @@ Con lo que acabos de crear, la carpeta debe verse así:
 nombre_propio/
 ├── config.json
 ├── css/
-|	└── bootstrap.min.css
+|    └── bootstrap.min.css
 ├── fonts/
-|	├──  glyphicons-halflings-regular.eot
-│	├──  glyphicons-halflings-regular.svg
-│	├──  glyphicons-halflings-regular.ttf
-│	└──  glyphicons-halflings-regular.woff
+|    ├──  glyphicons-halflings-regular.eot
+│    ├──  glyphicons-halflings-regular.svg
+│    ├──  glyphicons-halflings-regular.ttf
+│    └──  glyphicons-halflings-regular.woff
 ├── images/
 ├── index.html
 └── js/
-│	├── bootstrap.min.js
-│	├── jquery.min.js
-│	└── masonry.pkgd.min.js
+│    ├── bootstrap.min.js
+│    ├── jquery.min.js
+│    └── masonry.pkgd.min.js
 └── style.css
 ```
 
