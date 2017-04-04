@@ -113,6 +113,12 @@ bootstrap/
 
 ### Referencias:
 
-En castellano: [Bootstrap 3, el manual oficial](https://librosweb.es/libro/bootstrap_3/)
+En inglés: 
 
-En inglés: [Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
+- [Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
+- [Bootstrap Classes Reference](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
+- [Bootstrap 3 Cheat Sheet](https://www.cheatography.com/ralakei/cheat-sheets/bootstrap-3/)
+
+En castellano: 
+
+- [Bootstrap 3, el manual oficial](https://librosweb.es/libro/bootstrap_3/)
