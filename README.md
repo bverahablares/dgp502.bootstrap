@@ -111,7 +111,7 @@ bootstrap/
 └── style.css
 ```
 
-**Trabajar con Bootstrap es trabajar con una lógica de tomar hasta 12 columnas (`col-`) dentro de una fila (`row`). A su vez, las filas van dentro contenedores, que pueden ser fijos (`container`) o fluidos (`container-fluid`).**
+**Trabajar con Bootstrap es trabajar con la idea de "tomar" hasta 12 columnas (`col-`) dentro de una fila (`row`). Con filas que van dentro de contenedores, que pueden ser fijos (`container`) o fluidos (`container-fluid`).**
 
 ### Referencias:
 
