@@ -86,15 +86,15 @@ En el documento `index.html` tenemos que escribir:
         <![endif]-->
     </head>
     <body>
-        <div class="container">
-         <div class="container">
-          <div class="col-sm-12">
-           <h1>Hola mundo!</h1>
-          </div>
-         </div>
-        </div>
-        <script src="js/jquery.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
+      <div class="container">
+      <div class="row">
+      <div class="col-sm-12">
+      <h1>Hola mundo!</h1>
+      </div>
+      </div>
+      </div>
+      <script src="js/jquery.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
     </body>
 </html>
 ```
