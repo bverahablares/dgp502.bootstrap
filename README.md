@@ -117,7 +117,7 @@ En inglés:
 
 - [Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
 - [Bootstrap Classes Reference](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
-- [Bootstrap 3 Cheat Sheet](https://www.cheatography.com/ralakei/cheat-sheets/bootstrap-3/)
+- [Bootstrap 3 Cheat Sheet](https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/)
 
 En castellano: 
 
