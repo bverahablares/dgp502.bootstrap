@@ -153,7 +153,6 @@ En la evaluación de su sitio web en línea, se considerará el cumplimiento de 
 
 1. Implementar una estructura clara y consistente, que aproveche los valores (por defecto) de Bootstrap.
 
-2. Disponer de una página `index.html`, donde se incluyan al menos 3 *abstracts* de artículos que aporten a su tema de investigación, con un un vínculo al artículo completo y su referencia en formato APA.
+2. Disponer de una página `index.html`, donde se incluyan al menos 3 *abstracts* de artículos que aporten a su tema de investigación, con un vínculo a cada artículo y su referencia en formato APA.
 
-3. Disponer de una página `about.html`, donde se incluyan al menos  
-1 párrafo sobre su tema de investigación y 1 párrafo sobre su relación con el tema (motivación), siendo ambos redactados con atención a: [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/) y [Stanford Guidelines for Web Credibility](http://credibility.stanford.edu/guidelines/index.html).
+3. Disponer de una página `about.html`, donde se incluyan al menos 1 párrafo sobre su tema de investigación y 1 párrafo sobre su relación con el tema (motivación), siendo ambos redactados con atención a: [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/) y [Stanford Guidelines for Web Credibility](http://credibility.stanford.edu/guidelines/index.html).
