@@ -151,8 +151,8 @@ Para evaluar el sitio web que desarrollen, deben crear un repositorio en GitHub 
 
 En la evaluación de su sitio web en línea, se considerará el cumplimiento de los siguientes requisitos: 
 
-- [x]Implementar un prototipo funcional, de estructura clara y consistente, que aproveche CSS, Componentes y Javascript básicos de Bootstrap.
+- [x] Implementar un prototipo funcional, de estructura clara y consistente, que aproveche CSS, Componentes y Javascript básicos de Bootstrap.
 
-- [x]Disponer de una página `index.html`, donde se incluyan al menos 3 *abstracts* de artículos que aporten a su tema de investigación, con un vínculo a cada artículo y su referencia en formato APA.
+- [x] Disponer de una página `index.html`, donde se incluyan al menos 3 *abstracts* de artículos que aporten a su tema de investigación, con un vínculo a cada artículo y su referencia en formato APA.
 
-- [x]Disponer de una página `about.html`, donde se incluyan al menos 1 párrafo sobre su tema de investigación y 1 párrafo sobre su relación con el tema (motivación), siendo ambos redactados con atención a: [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/) y [Stanford Guidelines for Web Credibility](http://credibility.stanford.edu/guidelines/index.html).
+- [x] Disponer de una página `about.html`, donde se incluyan al menos 1 párrafo sobre su tema de investigación y 1 párrafo sobre su relación con el tema (motivación), siendo ambos redactados con atención a: [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/) y [Stanford Guidelines for Web Credibility](http://credibility.stanford.edu/guidelines/index.html).
