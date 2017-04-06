@@ -146,3 +146,5 @@ bootstrap/
 Durante esta clase, y desde lo básico, armaremos un sitio web. Vamos a poner a prueba la "misión" de este [Framework](https://es.wikipedia.org/wiki/Framework) de [HTML](https://developer.mozilla.org/es/docs/Glossary/HTML), [CSS](https://developer.mozilla.org/es/docs/Glossary/CSS) y [JS](https://developer.mozilla.org/es/docs/Glossary/JavaScript):
 
 > Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.
+
+Para evaluar el sitio web que desarrollen, deben crear un repositorio en GitHub y poner su sitio en línea mediante GitHub Pages. **Sólo serán evaluados los trabajos de quienes informaron el dato de su cuenta de GitHub en la encuesta enviada la semana recién pasada**.
