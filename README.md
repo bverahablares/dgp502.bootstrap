@@ -151,7 +151,7 @@ Para evaluar el sitio web que desarrollen, deben crear un repositorio en GitHub 
 
 En la evaluación de su sitio web en línea, se considerará el cumplimiento de los siguientes requisitos: 
 
-1. Tener una estructura clara y consistente, que aproveche los valores (por defecto) de Bootstrap.
+1. Implementar una estructura clara y consistente, que aproveche los valores (por defecto) de Bootstrap.
 
 2. Disponer de una página `index.html`, donde se incluyan al menos 3 *abstracts* de artículos que aporten a su tema de investigación, con un un vínculo al artículo completo y su referencia en formato APA.
 
