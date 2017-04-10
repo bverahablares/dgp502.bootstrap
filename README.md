@@ -161,7 +161,7 @@ En la evaluación de su sitio web en línea, se considerará el cumplimiento de 
 
 ### Resultados
 
-**GitHub Pages**: Lunes 10 de abril, 2017. Estudiantes de Seminario de Gráfica Computacional I. Diseño UCH:
+**Lunes 10 de abril, 2017. Estudiantes de Seminario de Gráfica Computacional I. Diseño UCH**
 
 - [x] [Aravena Maldonado, Matheus](https://matheusaravena.github.io/identidad-contracultural/)
 - [ ] Blasco Barraza, Catherine Alejandra
