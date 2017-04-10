@@ -158,3 +158,28 @@ En la evaluación de su sitio web en línea, se considerará el cumplimiento de 
 - [x] Disponer de una página `index.html`, donde se incluyan al menos 3 *abstracts* de artículos que aporten a su tema de investigación, con un vínculo a cada artículo, además de su referencia redactada en formato APA.
 
 - [x] Disponer de una página `about.html`, donde se incluyan al menos 1 párrafo sobre su tema de investigación y 1 párrafo sobre su relación con el tema (motivación), siendo ambos redactados con atención a: [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/) y [Stanford Guidelines for Web Credibility](http://credibility.stanford.edu/guidelines/index.html).
+
+### Resultados
+
+**GitHub Pages**: Lunes 10 de abril, 2017. Estudiantes de Seminario de Gráfica Computacional I. Diseño UCH:
+
+- [x] [Aravena Maldonado, Matheus](https://matheusaravena.github.io/identidad-contracultural/)
+- [ ] Blasco Barraza, Catherine Alejandra
+- [ ] Carrizo Acosta, Javier Alejandro
+- [x] [Castro Andrews, Javiera Constanza](https://javieracastroa.github.io/clase-10-abril)
+- [x] [Chung Astudillo, Catalina Constanza](https://chungkat.github.io/computacion-10-abril/)
+- [x] [Cid Sepúlveda, Carlos Andrés](https://carlos-cid.github.io/clase10-04/)
+- [x] [Cornejo Guevara, Catalina Francisca](https://catalinaconejoguevara.github.io/clase-10-abril/)
+- [x] [Faúndez Ibaceta, Jessica Daniela](https://jessydfaundez.github.io/10-abril-2017/)
+- [x] [Gómez Mercado, Martín Andrés](https://martingomezm.github.io/bootstrap-10-04-2017/)
+- [x] [Günsche Pinto, Paula Daniela](https://paulagunsche.github.io/computacion-10-abril/)
+- [x] [Jarpa Videla, Marisol Andrea](https://bverahablares.github.io/computacion-10-abril/)
+- [x] [Monroy Kleemann, María José](https://cotemonroy.github.io/clase-10abril2017/)
+- [x] [Núñez Olea, María Paz](https://mpaznunez.github.io/10_abril_2017/)
+- [x] [Quiroz Marambio, Pamela Andrea](https://quizozi.github.io/Computacion-10-04/)
+- [ ] Rocha Gómez, Aline Anaís
+- [x] [Rojas Vergara, Nicolás Gastón](https://nicoconfused.github.io/computacion-10-abril/)
+- [x] [Solís Alcaíno, Ignacio Enrique](https://ignaciosolis.github.io/computacion-10-abril/)
+- [ ] Suil Aravena, Katherine Veronica
+- [x] [Vega Olivares, Romina Paz](https://rominavegaolivares.github.io/computacion-10-abril/)
+- [x] [Venegas Suzarte, Camila Fernanda](https://camilavenegass.github.io/comp-10-abril/)
